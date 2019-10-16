@@ -1,0 +1,19 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.card{
+
+    width: 450px;
+    margin-right: 80px;
+    background-color: #FFEFD3;
+}
+
+.card-img{
+    width:150px;
+    height:150px;
+}
+#titulo1{
+    color:#001B2E;
+}
